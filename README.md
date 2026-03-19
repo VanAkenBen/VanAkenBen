@@ -26,6 +26,18 @@ I'm a founder and software engineer originally from Bornem, Belgium, now living 
 - [**Swiftly-PDFKit**](https://github.com/Swiftly-Developed/Swiftly-PDFKit) — A convenience PDFKit to create PDF documents in Swift
 - [**Swiftly-CMSKit**](https://github.com/Swiftly-Developed/Swiftly-CMSKit) — An early-stage Vapor CMS to manage your websites
 
+## Tech Stack
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white)
+![Vapor](https://img.shields.io/badge/Vapor-0D0D0D?style=flat&logo=vapor&logoColor=white)
+![Hummingbird](https://img.shields.io/badge/Hummingbird-FF6600?style=flat&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+## GitHub Activity
+
+<img src="https://ghchart.rshah.org/VanAkenBen" alt="GitHub Contribution Heatmap" />
+
 ## Connect
 
 - 🌐 [swiftly-workspace.com](https://swiftly-workspace.com)
