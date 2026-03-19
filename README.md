@@ -1,14 +1,14 @@
 <div align="center">
   <img src="Ben-square.jpeg" width="180" style="border-radius: 50%;" alt="Ben Van Aken" />
   <h1>Hi, I'm Ben 👋</h1>
-  <p><strong>Entrepreneur · Software Engineer · Belgium 🇧🇪</strong></p>
+  <p><strong>Entrepreneur · Software Engineer · Originally from Belgium 🇧🇪, living in the Philippines 🇵🇭</strong></p>
 </div>
 
 ---
 
 ## About Me
 
-I'm a founder and software engineer based in Bornem, Belgium. I build products and companies across software development, AI, and marketing — all under the **Swiftly** brand.
+I'm a founder and software engineer originally from Bornem, Belgium, now living happily with my family in Davao, Philippines. I build products and companies across software development, AI, and marketing — all under the **Swiftly** brand.
 
 ## Companies I Founded
 
@@ -24,7 +24,7 @@ I'm a founder and software engineer based in Bornem, Belgium. I build products a
 ## Open Source
 
 - [**Swiftly-PDFKit**](https://github.com/Swiftly-Developed/Swiftly-PDFKit) — A convenience PDFKit to create PDF documents in Swift
-- [**Swiftly-CMSKit**](https://github.com/Swiftly-Developed/Swiftly-CMSKit) — A CMS for Vapor websites
+- [**Swiftly-CMSKit**](https://github.com/Swiftly-Developed/Swiftly-CMSKit) — An early-stage Vapor CMS to manage your websites
 
 ## Connect
 
