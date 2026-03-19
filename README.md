@@ -36,7 +36,7 @@ I'm a founder and software engineer originally from Bornem, Belgium, now living 
 
 ## GitHub Activity
 
-<img src="https://ghchart.rshah.org/VanAkenBen" alt="GitHub Contribution Heatmap" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VanAkenBen&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" />
 
 ## Connect
 
