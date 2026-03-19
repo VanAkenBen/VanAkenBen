@@ -34,13 +34,6 @@ I'm a founder and software engineer originally from Bornem, Belgium, now living 
 ![Hummingbird](https://img.shields.io/badge/Hummingbird-FF6600?style=flat&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-## GitHub Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/30a14e/VanAkenBen" />
-  <img src="https://ghchart.rshah.org/VanAkenBen" alt="GitHub Contribution Heatmap" />
-</picture>
-
 ## Connect
 
 - 🌐 [swiftly-workspace.com](https://swiftly-workspace.com)
