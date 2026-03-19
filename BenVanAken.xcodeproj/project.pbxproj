@@ -6,10 +6,23 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXFileReference section */
+		D0BDF3FD2F6B89E30008E95E /* CLAUDE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = CLAUDE.md; sourceTree = "<group>"; };
+		D0BDF3FE2F6B89E30008E95E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		D0BDF3FF2F6B89F70008E95E /* BenVanAken.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = BenVanAken.txt; sourceTree = "<group>"; };
+		D0BDF4002F6B8A600008E95E /* Ben-square.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Ben-square.jpeg"; sourceTree = "<group>"; };
+		D0BDF4012F6B8A600008E95E /* Ben-portrait.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Ben-portrait.jpeg"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		D0BDF3F62F6B88AA0008E95E = {
 			isa = PBXGroup;
 			children = (
+				D0BDF3FD2F6B89E30008E95E /* CLAUDE.md */,
+				D0BDF3FE2F6B89E30008E95E /* README.md */,
+				D0BDF3FF2F6B89F70008E95E /* BenVanAken.txt */,
+				D0BDF4002F6B8A600008E95E /* Ben-square.jpeg */,
+				D0BDF4012F6B8A600008E95E /* Ben-portrait.jpeg */,
 			);
 			sourceTree = "<group>";
 		};
