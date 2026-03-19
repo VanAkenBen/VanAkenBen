@@ -1,0 +1,72 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXGroup section */
+		D0BDF3F62F6B88AA0008E95E = {
+			isa = PBXGroup;
+			children = (
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		D0BDF3F72F6B88AA0008E95E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 2630;
+			};
+			buildConfigurationList = D0BDF3FA2F6B88AA0008E95E /* Build configuration list for PBXProject "BenVanAken" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D0BDF3F62F6B88AA0008E95E;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		D0BDF3FB2F6B88AA0008E95E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 76GX335AG2;
+			};
+			name = Debug;
+		};
+		D0BDF3FC2F6B88AA0008E95E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 76GX335AG2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D0BDF3FA2F6B88AA0008E95E /* Build configuration list for PBXProject "BenVanAken" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D0BDF3FB2F6B88AA0008E95E /* Debug */,
+				D0BDF3FC2F6B88AA0008E95E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D0BDF3F72F6B88AA0008E95E /* Project object */;
+}
